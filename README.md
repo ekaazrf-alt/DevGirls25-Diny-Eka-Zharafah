@@ -8,5 +8,5 @@ Journafy menawarkan beberapa fitur penting, seperti :
 - "All Task" untuk menampilkan semua tugas yang ada, lengkap dengan detail nya (deadline, nama tugas, subject, status pengerjaan). User bisa menghapus tugas disini
 - "Add Task" untuk menambahkan tugas baru, user akan diminta untuk mengisi 4 data penting berupa nama tugas, subject tugas, status pengerjaan tugas, dan deadline pengerjaan
 - "By Status" ditujukan untuk menampilkan tugas-tugas user yang dikelompokkan berdasarkaan statusnya. ada 3 status, yakni not done, on  progress, dan done
-- "By Date" akan menampilkan data berdasarkan tanggal / deadline pengumpulan tugas. 
-<img width="1920" height="1020" alt="image" src="https://github.com/user-attachments/assets/ea4a81c2-a614-4d20-8546-bb4f45ba81f7" />
+- "By Date" akan menampilkan data berdasarkan tanggal / deadline pengumpulan tugas.
+<img width="1916" height="972" alt="image" src="https://github.com/user-attachments/assets/63e53336-7e01-4e04-ad22-26c8f3e63537" />
